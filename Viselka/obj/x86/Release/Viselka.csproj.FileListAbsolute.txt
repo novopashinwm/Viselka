@@ -1,0 +1,7 @@
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\bin\Release\Viselka.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\bin\Release\Viselka.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\obj\x86\Release\Viselka.FormViselka.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\obj\x86\Release\Viselka.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\obj\x86\Release\Viselka.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\obj\x86\Release\Viselka.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\Viselka\Viselka\obj\x86\Release\Viselka.pdb
